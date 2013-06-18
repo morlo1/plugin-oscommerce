@@ -11,8 +11,8 @@ Requirements
 Installation
 ------------
 
-1. Download this repository as zip and extract "ext,includes" folders into osCommerce main directory;
-2. In admin panel activate payment method, select it, press edit and fill in all information;
+1. Download this repository as zip and extract "ext,includes" folders into osCommerce main directory.
+2. In admin panel activate payment method, select it, press edit and fill in all information.
 
 Contacts
 --------

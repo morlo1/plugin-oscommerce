@@ -1,7 +1,9 @@
-# -- INSTRUCTION --
+Diegimas
 
-1. Padarykite atsargine kopija[nebutina]
-2. Nukopijuokite failus i osCommerce direktoija
-3. Administracijoje idiekite aktyvuokite mokejimo buda, pasirinkite ji, paspauskite radagavima ir iveskite reikalingus duomenis
+1. Padarykite atsargine kopija[nebutina].
+2. Nukopijuokite failus i osCommerce direktoija.
+3. Administracijoje idiekite aktyvuokite mokejimo buda, pasirinkite ji, paspauskite radagavima ir iveskite reikalingus duomenis.
 
-Iskilus klausimams kreiptis i pagalba@mokejimai.lt
+Kontaktai
+
+Kilus klausimams prasome kreiptis i pagalba@mokejimai.lt
